@@ -1,7 +1,7 @@
 console.log("Hello");
 
-import * as Logger from "./logger";
-import * as Utils from "./utils";
+import * as Logger from "./logger.js";
+import * as Utils from "./utils.js";
 
 
 Logger.log("my message");
